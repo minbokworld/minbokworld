@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, This is minbokworld's official GitHub account!👋
+
+Do you want learn about Minbok Universe? See [here](https://fnbase.xyz/b>minbokworld) and [here](https://cafe.naver.com/minbokworld)!
 
 <!--
 **minbokworld/minbokworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
